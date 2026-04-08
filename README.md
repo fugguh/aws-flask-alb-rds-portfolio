@@ -1,4 +1,3 @@
-# aws-flask-alb-rds-portfolio
 # AWS Portfolio - Flask + ALB + RDS
 
 This is a portfolio project built using AWS services.
